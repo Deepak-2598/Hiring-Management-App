@@ -1,0 +1,9 @@
+.cart-table{
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.cart-table button{
+    background-color: red;
+}

@@ -1,0 +1,25 @@
+table{
+    font-family: arial,sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,th{
+    border: 1px solid #dddddd;
+}
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+/* .table-data button {
+    background-color: rgb(30, 167, 30);
+} */
+
+.hire-btn{
+    background-color: green;
+}
+
+.remove-btn {
+    background-color: red;
+}
